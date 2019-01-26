@@ -129,10 +129,10 @@ body {
   margin-left: 40px;
   margin-right: 20px;
   text-shadow:
-  -1.5px -1.5px 0 #000,
-  1.5px -1.5px 0 #000,
-  -1.5px 1.5px 0 #000,
-  1.5px 1.5px 0 #000;
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
 }
 #cmdline {
   outline: none;
